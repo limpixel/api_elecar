@@ -1,0 +1,4 @@
+.env
+sdk.md
+node_modules
+serviceAccountKey.json
